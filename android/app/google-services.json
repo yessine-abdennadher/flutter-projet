@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647947439741",
+    "project_id": "projetds-35f8a",
+    "storage_bucket": "projetds-35f8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647947439741:android:9e99b336bd43f1d98a2b14",
+        "android_client_info": {
+          "package_name": "com.example.sapacetoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3m6VAw2fQ99zYdx-hF8vKSn-DWjY2uWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

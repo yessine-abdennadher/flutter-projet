@@ -1,0 +1,44 @@
+name: my_library
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0" # Supporte toutes les versions Dart 3.x
+
+dependencies:
+  audioplayers: ^5.2.1
+  flutter:
+    sdk: flutter
+  html_unescape: ^2.0.0
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.17.0
+  http: ^1.2.0  # Dernière version stable
+  cupertino_icons: ^1.0.6
+  provider: ^6.0.5  # Ajout de la dépendance provider
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/bg1.png
+    - assets/images/bg2.png
+    - assets/images/card-image.png
+    - assets/images/bg3.png
+    - assets/images/bg4.png
+    - assets/images/bg5.jpg
+    - assets/images/bg6.jpg
+    - assets/images/bg7.jpg
+    - assets/images/bg8.jpg
+    - assets/images/bg9.jpg
+    - assets/audio/background.mp3
+    - assets/audio/1-efek-sound-4-220032.mp3
+    - assets/audio/buzzer-or-wrong-answer-20582.mp3
+
