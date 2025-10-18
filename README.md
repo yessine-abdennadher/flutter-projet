@@ -29,7 +29,7 @@ Bienvenue dans **Flutter Quiz App**, une application mobile interactive dévelop
 ## 📱 Aperçu de l’application
 
 ### 🖼️ Écran de question
-![Question Screen](assets/imaages/screens/quiz-home.jpeg)
+![Question Screen](assets/images/screens/quiz-home.jpe)
 
 ### 🖼️ Réponse correcte
 ![Answer Screen](assets/images/screens/quiz3.jpeg)
