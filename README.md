@@ -26,11 +26,11 @@ Bienvenue dans **Flutter Quiz App**, une application mobile interactive dévelop
 ## 📱 Aperçu de l’application
 
 <p align="center">
-  <img src="assets/images/screens/quiz-welcome.jpeg" alt="Écran de login" width="180"/>
-  <img src="assets/images/screens/quiz-login.jpeg" alt="Écran de login" width="180"/>
-  <img src="assets/images/screens/quiz-home.jpeg" alt="Écran d'accueil" width="180"/>
-  <img src="assets/images/screens/quiz3.jpeg" alt="Écran de question" width="180"/>
-  <img src="assets/images/screens/resultat.jpeg" alt="Résultat final" width="180"/>
+  <img src="assets/images/screens/quiz-welcome.jpeg" alt="Écran de login" width="170"/>
+  <img src="assets/images/screens/quiz-login.jpeg" alt="Écran de login" width="170"/>
+  <img src="assets/images/screens/quiz-home.jpeg" alt="Écran d'accueil" width="170"/>
+  <img src="assets/images/screens/quiz3.jpeg" alt="Écran de question" width="170"/>
+  <img src="assets/images/screens/resultat.jpeg" alt="Résultat final" width="170"/>
 </p>
 
 ---
