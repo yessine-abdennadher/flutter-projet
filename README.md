@@ -18,10 +18,8 @@ Bienvenue dans **Flutter Quiz App**, une application mobile interactive dévelop
 ## 🏗️ Technologies utilisées
 
 - **Flutter** (SDK de développement multiplateforme)  
-- **Dart** (langage principal)  
-- **GetX / Provider** (gestion d’état)  
-- **JSON** pour le stockage local des questions  
-- **Google Fonts** et **Lottie** pour un design professionnel  
+- **Dart** (langage principal)   
+- **JSON** pour le stockage local des questions   
 
 ---
 
