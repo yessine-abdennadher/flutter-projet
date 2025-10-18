@@ -9,8 +9,7 @@ Bienvenue dans **Flutter Quiz App**, une application mobile interactive dévelop
 - 🧩 Interface intuitive et moderne  
 - ⏱️ Chronomètre pour chaque question  
 - ✅ Vérification instantanée des réponses  
-- 📊 Résumé du score à la fin du quiz  
-- 🌙 Mode clair et sombre  
+- 📊 Résumé du score à la fin du quiz   
 - 🔄 Rejouer le quiz à tout moment  
 - 🧠 Base de données de questions extensible  
 
