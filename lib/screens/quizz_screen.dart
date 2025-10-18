@@ -146,7 +146,7 @@ class _QuizzScreenState extends State<QuizzScreen> {
                             difficulty: selectedDifficulty,
                             backgroundMusic: backgroundMusic,
                             soundEffects: soundEffects,
-                            categoryId: widget.categories.id, // ✅ important
+                            categoryId: widget.categories.id,
                           ),
                         ),
                       );
